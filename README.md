@@ -25,3 +25,25 @@ to install requirement files
 '''''
 
 pip install -r requirements.txt
+
+to add files to git 
+
+''''
+git add <file name>
+'''''
+To check status
+'''''
+get status
+'''''
+To ccreate new version 
+''''
+git commit -m 'message'
+'''''
+To send changes to github
+'''''
+git push origin main
+'''''
+To check remote url
+
+git remote -v
+'''''
