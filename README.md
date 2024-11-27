@@ -46,4 +46,8 @@ git push origin main
 To check remote url
 
 git remote -v
+<<<<<<< HEAD
 '''''
+=======
+'''''
+>>>>>>> 761773233494ee2b4c068062fbd4e5bcfedb1ba5
